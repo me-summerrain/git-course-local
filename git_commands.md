@@ -1,6 +1,5 @@
 Here are some basic Git commands:
-
-1. `git init`: Initializes a new Git repository in the current directory.
+1. inside the local directory use `git init` command to make that directory git repo.
 2. `git clone <repository>`: Creates a local copy of a remote repository.
 3. `git add <file>`: Adds a file to the staging area.
 4. `git commit -m "<message>"`: Commits the changes in the staging area with a descriptive message.
