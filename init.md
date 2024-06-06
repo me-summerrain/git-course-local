@@ -4,4 +4,4 @@
 
 use `git status` for checking status of the git repo.
 
-These are the startin point with git commands.
+These are the starting point with git commands.
