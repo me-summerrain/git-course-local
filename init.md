@@ -1,0 +1,1 @@
+`git init` - initialise folder as a git repo.
